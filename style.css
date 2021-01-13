@@ -1,0 +1,31 @@
+#greytitle {
+    background-color: #f2c9b1;
+}
+#greytitle img{
+    width: 70%;
+    height: 800px;
+}
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: #f2e694;
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#grid {
+    background-color: #acdbe6;
+}
+.gridspan img {
+    width: 200px;
+    height: 200px;
+}
